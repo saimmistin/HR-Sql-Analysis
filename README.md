@@ -1,7 +1,7 @@
 # HR-Sql-Analysis
 ![sql_images](https://github.com/saimmistin/HR-Sql-Analysis/assets/67612693/c7cb50d6-ff9c-45d0-b7b8-212a5dd046a5)
 
-Welcome to the Human Resource Analysis Project repository! This project focuses on analyzing human resource data using advanced SQL techniques to gain valuable insights into workforce dynamics.
+Welcome to the Human Resource Analysis Project repository! This project focuses on analyzing human resource data using SQL techniques to gain valuable insights into workforce dynamics.
 
 ## Project Highlights
 
